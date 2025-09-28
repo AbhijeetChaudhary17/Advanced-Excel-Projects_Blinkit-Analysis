@@ -1,5 +1,5 @@
 # Advanced-Excel-Projects_Blinkit-Analysis
-**Advanced Excel Projects 📊**
+**Advanced Excel Project 📊**
 
 This repository presents a collection of Advanced Excel projects demonstrating expertise in data analysis, pivot tables, and interactive dashboard development. Each project applies structured analytical methods to real-world company datasets, highlighting both technical proficiency and business acumen.
 
